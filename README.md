@@ -16,7 +16,7 @@ The [Bay Area Bike Share](http://www.bayareabikeshare.com/) enables quick, easy,
 
 Data and a more detailed description can be found [here](https://www.kaggle.com/benhamner/sf-bay-area-bike-share/data):
 
-#### More info about the data
+## Other info about the data
 
 **Time period** - 2013 - 2015
 
@@ -38,12 +38,7 @@ Data and a more detailed description can be found [here](https://www.kaggle.com/
 
 ![Most common routes](images/most_common_routes.png)
 
-
-
-
-
-
-**Libraries used:**
+## Libraries used:
 
 - pandas
 - numpy
