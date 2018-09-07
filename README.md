@@ -32,11 +32,11 @@ Data and a more detailed description can be found [here](https://www.kaggle.com/
 - Trips on the weekend were more likely to incur an extra cost
 
 ## Interesting Plots
-![Trips by hour](images\trips_by_hour.png)
+![Trips by hour](\images\trips_by_hour.png)
 
-![Station bias](images\station_bias.png)
+![Station bias](\images\station_bias.png)
 
-![Most common routes](images\most_common_routes.png)
+![Most common routes](\images\most_common_routes.png)
 
 
 
